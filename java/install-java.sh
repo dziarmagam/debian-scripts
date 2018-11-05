@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sudo apt-get install default-jdk
+sudo apt-get install -y default-jdk
