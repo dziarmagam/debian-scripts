@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-apt-get install nano
-apt-get install htop
-apt-get install curl
+apt-get install -y nano
+apt-get install -y htop
+apt-get install -y curl
